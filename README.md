@@ -1,9 +1,5 @@
-### Olá!! Meu nome é Fernando Luppo 👋
+### Olá!! Meu nome é Fernando Luppo e sou um Programador Full Stack 👋
 <br>
-
-💼 Estou no processo de mudança de carreira para me tornar um desenvolvedor full stack.<br>
-💻 Tenho conhecimento nas tecnoligias: HTML | CSS | JavaScript (Intermediario).<br>
-📚 Estou estudando as tecnologias: JavaScript | Node.js | React | Electron | Firebase | MongoDB | jQuery | Bootstrap 
 
 <br>
 
