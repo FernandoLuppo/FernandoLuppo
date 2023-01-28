@@ -50,6 +50,3 @@
  <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE2A15&height=180&section=footer&fontColor=fff&animation=twinkling" />
  </div>
-
-#FE2A15
-#A71A13
