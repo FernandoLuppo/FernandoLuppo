@@ -5,7 +5,9 @@
 <div align="center">  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoLuppo&show_icons=true&count_private=true&hide_border=true&title_color=FE2A15&icon_color=A71A13&text_color=c9d1d9&bg_color=0d1117)
   
+  
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoLuppo&layout=compact&hide_border=true&title_color=FE2A15&text_color=fff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FernandoLuppo&color=FE2A15&line=A71A13&point=FE2A15&hide_border=true&hide_title=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
