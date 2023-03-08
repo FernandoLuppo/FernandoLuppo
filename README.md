@@ -4,7 +4,7 @@
 
 <div display="flex" gap="40px">
   
-  <img href="https://github-readme-stats.vercel.app/api?username=FernandoLuppo&show_icons=true&count_private=true&hide_border=true&title_color=FE2A15&icon_color=A71A13&text_color=c9d1d9&bg_color=0d1117" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoLuppo&show_icons=true&count_private=true&hide_border=true&title_color=FE2A15&icon_color=A71A13&text_color=c9d1d9&bg_color=0d1117" rel /> 
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoLuppo&show_icons=true&count_private=true&hide_border=true&title_color=FE2A15&icon_color=A71A13&text_color=c9d1d9&bg_color=0d1117)
   
