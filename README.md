@@ -7,9 +7,6 @@
   <img width="41%" height="195px" src="http://github-readme-status.vercel.app/api/top-langs/?username=FernandoLuppo&layout=compact&hide_border=true&title_color=FE2A15&text_color=fff&bg_color=0d1117" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FernandoLuppo=anuraghazra&hide=contribs,prs)
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FernandoLuppo&color=FE2A15&line=A71A13&point=FE2A15&hide_border=true&hide_title=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
