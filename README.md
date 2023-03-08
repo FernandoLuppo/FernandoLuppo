@@ -3,11 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&pause=1000&color=FE2A15&width=1000&lines=Ola!+Meu+nome+é+Fernando.;Tenho+20+Anos.;Sou+Desenvolvedor+Full-Stack.;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="http://github-readme-status.vercel.app/api?username=FernandoLuppo&show_icons=true&count_private=true&hide_border=true&title_color=FE2A15&icon_color=A71A13&text_color=c9d1d9&bg_color=0d1117" alt="Fernando José Alves Luppo github status" />
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoLuppo&show_icons=true&count_private=true&hide_border=true&title_color=FE2A15&icon_color=A71A13&text_color=c9d1d9&bg_color=0d1117)
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoLuppo&layout=compact&hide_border=true&title_color=FE2A15&text_color=fff&bg_color=0d1117=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoLuppo&layout=compact&hide_border=true&title_color=FE2A15&text_color=fff&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
   
   <img width="41%" height="195px" src="http://github-readme-status.vercel.app/api/top-langs/?username=FernandoLuppo&layout=compact&hide_border=true&title_color=FE2A15&text_color=fff&bg_color=0d1117" />
 </div>
