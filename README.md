@@ -9,6 +9,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FernandoLuppo&color=FE2A15&line=A71A13&point=FE2A15&hide_border=true&hide_title=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FernandoLuppo&theme=onestar&column=3&margin-w=15&margin-h=15" />
  </p>
