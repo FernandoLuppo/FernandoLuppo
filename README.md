@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02a9f7&height=180&section=header&text=Fernando_Luppo&fontSize=30&fontColor=fff&animation=twinkling&&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&pause=1000&color=fff&width=1000&lines=Ola!+Meu+nome+é+Fernando.;Tenho+22+Anos.;Sou+Desenvolvedor+Full-Stack.;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&pause=1000&color=02a9f7&width=1000&lines=Ola!+Meu+nome+é+Fernando.;Tenho+22+Anos.;Sou+Desenvolvedor+Full-Stack.;Seja+bem+vindo+:%29)](https://git.io/typing-svg)
 
 
   <div align="center">
