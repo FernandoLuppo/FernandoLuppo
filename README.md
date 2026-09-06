@@ -31,18 +31,19 @@
 ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 
 #### Back-end
-![Next](https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=2D79C7)&nbsp; 
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=2D79C7)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1D)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)&nbsp;
-![Styled-Components](https://img.shields.io/badge/Styled--Components-20232A?style=for-the-badge&logo=styledcomponents&logoColor=DB7093)&nbsp;
-![MUI](https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=mui&logoColor=007FFF)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Fastify](https://img.shields.io/badge/Fastify-20232A?style=for-the-badge&logo=fastify&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
+![Django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
+![WebSockets](https://img.shields.io/badge/WebSockets-20232A?style=for-the-badge&logo=socket.io&logoColor=white)&nbsp;
+![REST APIs](https://img.shields.io/badge/REST%20APIs-20232A?style=for-the-badge&logo=api&logoColor=white)&nbsp;
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-20232A?style=for-the-badge&logo=clean&logoColor=white)&nbsp;
+![Clean Code](https://img.shields.io/badge/Clean%20Code-20232A?style=for-the-badge&logo=clean&logoColor=white)&nbsp;
 
 #### DB & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=80BD41)&nbsp;
